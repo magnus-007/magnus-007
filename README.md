@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Priyanshu👋</h1>
-<h3 align="center">Java Full-Stack Developer · Backend-focused</h3>
+<h3 align="center">Full-Stack Developer · Backend-focused</h3>
 
 <p align="center">
 I build secure, scalable backend systems with <b>Java, Spring Boot & Hibernate</b> on <b>PostgreSQL, MongoDB and Cassandra</b>,
